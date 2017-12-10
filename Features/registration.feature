@@ -1,3 +1,4 @@
+@register
 Feature: registering a new user
 
 In order to become a site member
